@@ -1,0 +1,42 @@
+body {
+background-color: #808080;
+background-image: url(images/sky_image.jpg);
+background-position: center center;
+background-repeat: repeat-y;
+background-size: cover;
+}
+.title {
+    padding-top: 100px;
+    padding-bottom: 0px;
+    font-size: 60px;
+    color: #FFFFFF;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+nav {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    background-color: #3A3B3C;
+    text-align: center;
+    word-spacing: 10px;
+    border-top: 10px solid #3A3B3C;
+    margin: 0 0 0 0;
+    padding: 10px 10px 10px 10px;
+    border: 10px 10px 10px 10px;
+    height: auto;
+}
+a {
+    color:#FFFFFF;
+    text-decoration: none;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main {
+    padding-top: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
